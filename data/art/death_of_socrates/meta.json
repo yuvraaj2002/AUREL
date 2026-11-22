@@ -1,0 +1,34 @@
+{
+  "art_id": "death_of_socrates",
+  "title": "The Death of Socrates",
+  "artist": "Jacques Louis David",
+  "year": "1787",
+  "theme": "stoicism, duty, philosophy of death, integrity",
+  "license": "Public domain / Met Open Access",
+  "source": "The Metropolitan Museum of Art",
+  "source_url": "https://www.metmuseum.org/art/collection/search/436105",
+  "met_object_id": 436105,
+  "bytes": 1793830,
+  "local_path": "data/art/death_of_socrates/base.jpg",
+  "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-13139-001.jpg",
+  "symbols": [
+    "hemlock cup",
+    "raised hand",
+    "chains on floor",
+    "disciples grieving"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Jacques-Louis David's The Death of Socrates depicts the philosopher calmly accepting the hemlock after his condemnation. Socrates teaches to the last moment, pointing upward as if affirming the immortality of the soul or the primacy of truth over survival. It is a neoclassical emblem of Stoic and Socratic virtue: better to die justly than live by betraying one's principles. The scene frames death as a moral choice, not mere fate."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "The painting contrasts Socrates' composure with the anguish of his followers. Grief is human and allowed; the center holds firm. Themes: courage, clarity under pressure, mentorship, and the cost of living by reason."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Classical architecture, cold stone and drapery, theatrical lighting on Socrates' body, outstretched arm, cup of poison. Horizontal frieze-like arrangement of figures."
+    }
+  ]
+}

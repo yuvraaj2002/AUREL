@@ -1,0 +1,34 @@
+{
+  "art_id": "aristotle_homer",
+  "title": "Aristotle with a Bust of Homer",
+  "artist": "Rembrandt (Rembrandt van Rijn)",
+  "year": "1653",
+  "theme": "wisdom, tradition, contemplation of greatness, legacy",
+  "license": "Public domain / Met Open Access",
+  "source": "The Metropolitan Museum of Art",
+  "source_url": "https://www.metmuseum.org/art/collection/search/437394",
+  "met_object_id": 437394,
+  "bytes": 3486903,
+  "local_path": "data/art/aristotle_homer/base.jpg",
+  "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-30758-001.jpg",
+  "symbols": [
+    "bust of Homer",
+    "gold chain",
+    "hand on sculpture",
+    "shadowed study"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Rembrandt's Aristotle with a Bust of Homer shows the philosopher resting his hand on a sculpted head of Homer. Aristotle contemplates poetic tradition and the measure of greatness across time. The gold chain may signal worldly honor; the bust signals enduring fame of the mind. The work asks what true wealth is: status in one's age, or conversation with the dead who still teach. It is about reverence for intellectual lineage and the humility of standing before a greater voice."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "Quiet, nocturnal, introspective. Warm browns and deep shadow create a mood of private thought. Suitable for themes of mentorship, reading the ancients, ambition tempered by respect, and the weight of cultural memory."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Half-length figure in dark interior, luminous flesh and gold chain, pale marble bust, Rembrandt chiaroscuro, intimate scale of contemplation."
+    }
+  ]
+}

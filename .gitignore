@@ -132,3 +132,9 @@ Thumbs.db
 
 # Project-specific
 prd.md
+
+# Keep diagram sources + art metadata; ignore heavy pixels
+data/art/**/base.*
+data/art/**/*.jpg
+data/art/**/*.png
+data/art/**/*.webp

@@ -1,0 +1,36 @@
+{
+  "title": "Saint Jerome in His Study",
+  "artist": "Albrecht Dürer",
+  "year": "1514",
+  "theme": "contemplation, scholarship, mortality, disciplined solitude",
+  "license": "Public domain / Met Open Access",
+  "source": "The Metropolitan Museum of Art",
+  "source_url": "https://www.metmuseum.org/art/collection/search/336229",
+  "met_object_id": 336229,
+  "art_id": "saint_jerome_durer",
+  "bytes": 2819773,
+  "local_path": "data/art/saint_jerome_durer/base.jpg",
+  "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP820349.jpg",
+  "symbols": [
+    "scholar at desk",
+    "skull",
+    "lion",
+    "sunlit study",
+    "hourglass",
+    "books"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Dürer's Saint Jerome in His Study shows the translator of the Vulgate at work in a calm, ordered room, with a skull on the windowsill as a quiet memento mori. Learning and death share the same space: scholarship is meaningful because life is finite. The lion at rest and the sleeping dog suggest tamed passions. It is an image of disciplined solitude— attention as a spiritual practice—and of wisdom that keeps mortality in view without panic."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "Peaceful, luminous, focused. Warm daylight through circular windows. Ideal for themes of deep work, monastic focus, reading as devotion, and calm acceptance of time."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Interior perspective, strong orthogonals, Jerome writing at a slanted desk, skull near window, lion in foreground, rich engraving detail of wood and light."
+    }
+  ]
+}

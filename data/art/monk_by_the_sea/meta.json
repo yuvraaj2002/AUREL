@@ -1,0 +1,35 @@
+{
+  "title": "A Praying Monk",
+  "artist": "Johann Friedrich Overbeck",
+  "year": "1826",
+  "theme": "prayer, asceticism, inwardness, devotion, solitude",
+  "license": "CC0 / Cleveland Museum of Art Open Access",
+  "source": "The Cleveland Museum of Art",
+  "source_url": "https://clevelandart.org/art/2006.174",
+  "cleveland_id": 164773,
+  "art_id": "monk_by_the_sea",
+  "bytes": 442077,
+  "local_path": "data/art/monk_by_the_sea/base.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/2006.174/2006.174_web.jpg",
+  "symbols": [
+    "hooded monk",
+    "prie-dieu",
+    "hidden face",
+    "cross",
+    "kneeling posture"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Friedrich Overbeck's A Praying Monk shows a hooded figure kneeling at a simple prayer desk, face hidden in the folds of the habit. Identity dissolves into posture: humility, attention, and withdrawal from display. It embodies ascetic philosophy—reducing the self to presence before the absolute—and the idea that meaning is found in disciplined interior life rather than public performance. Silence and bowing become forms of knowledge."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "Quiet, sparse, reverent. Minimal setting heightens solitude. Fits themes of meditation, repentance, focus, and stepping out of the noise of the world."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Etching/engraving of a kneeling draped figure from behind/side, wooden prie-dieu, small cross, large empty margins of paper, restrained line work."
+    }
+  ]
+}

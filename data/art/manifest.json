@@ -1,0 +1,127 @@
+{
+  "source": "Met Open Access + Cleveland Museum CC0 + Wikimedia Commons",
+  "note": "Public-domain / CC0 pilot corpus for AUREL. Embed interpretations[].text yourself; link via art_id. Keep attribution; do not misrepresent as original AI art.",
+  "count": 10,
+  "items": [
+    {
+      "art_id": "aristotle_homer",
+      "title": "Aristotle with a Bust of Homer",
+      "artist": "Rembrandt (Rembrandt van Rijn)",
+      "year": "1653",
+      "theme": "wisdom, tradition, contemplation of greatness, legacy",
+      "license": "Public domain / Met Open Access",
+      "source": "The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/art/collection/search/437394",
+      "local_path": "data/art/aristotle_homer/base.jpg",
+      "bytes": 3486903
+    },
+    {
+      "art_id": "buddha",
+      "title": "Scenes from the Life of Buddha",
+      "artist": "Pakistan, Gandhara, Kushan period",
+      "year": "100s CE",
+      "theme": "impermanence, enlightenment, compassion, narrative of awakening",
+      "license": "CC0 / Cleveland Museum of Art Open Access",
+      "source": "The Cleveland Museum of Art",
+      "source_url": "https://clevelandart.org/art/1958.474",
+      "local_path": "data/art/buddha/base.jpg",
+      "bytes": 117664
+    },
+    {
+      "art_id": "death_of_socrates",
+      "title": "The Death of Socrates",
+      "artist": "Jacques Louis David",
+      "year": "1787",
+      "theme": "stoicism, duty, philosophy of death, integrity",
+      "license": "Public domain / Met Open Access",
+      "source": "The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436105",
+      "local_path": "data/art/death_of_socrates/base.jpg",
+      "bytes": 1793830
+    },
+    {
+      "art_id": "diogenes",
+      "title": "Diogenes",
+      "artist": "Ugo da Carpi (Italian, c. 1479–c. 1532)",
+      "year": "c. 1524–27",
+      "theme": "cynicism, simplicity, rejecting convention, living truth",
+      "license": "CC0 / Cleveland Museum of Art Open Access",
+      "source": "The Cleveland Museum of Art",
+      "source_url": "https://clevelandart.org/art/1923.1052",
+      "local_path": "data/art/diogenes/base.jpg",
+      "bytes": 466668
+    },
+    {
+      "art_id": "knight_death_devil",
+      "title": "Knight, Death, and the Devil",
+      "artist": "Albrecht Dürer",
+      "year": "1513",
+      "theme": "stoic journey, mortality, courage, steadfastness",
+      "license": "Public domain / Met Open Access",
+      "source": "The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/art/collection/search/336223",
+      "local_path": "data/art/knight_death_devil/base.jpg",
+      "bytes": 1789899
+    },
+    {
+      "art_id": "melencolia",
+      "title": "Melencolia I",
+      "artist": "Albrecht Dürer",
+      "year": "1514",
+      "theme": "melancholy, knowledge, human limit, creative despair",
+      "license": "Public domain / Met Open Access",
+      "source": "The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/art/collection/search/336228",
+      "local_path": "data/art/melencolia/base.jpg",
+      "bytes": 4391204
+    },
+    {
+      "art_id": "monk_by_the_sea",
+      "title": "A Praying Monk",
+      "artist": "Johann Friedrich Overbeck",
+      "year": "1826",
+      "theme": "prayer, asceticism, inwardness, devotion, solitude",
+      "license": "CC0 / Cleveland Museum of Art Open Access",
+      "source": "The Cleveland Museum of Art",
+      "source_url": "https://clevelandart.org/art/2006.174",
+      "local_path": "data/art/monk_by_the_sea/base.jpg",
+      "bytes": 442077
+    },
+    {
+      "art_id": "saint_jerome_durer",
+      "title": "Saint Jerome in His Study",
+      "artist": "Albrecht Dürer",
+      "year": "1514",
+      "theme": "contemplation, scholarship, mortality, disciplined solitude",
+      "license": "Public domain / Met Open Access",
+      "source": "The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/art/collection/search/336229",
+      "local_path": "data/art/saint_jerome_durer/base.jpg",
+      "bytes": 2819773
+    },
+    {
+      "art_id": "vanitas_still_life",
+      "title": "Allegorical Portrait of Pieter Bruegel the Elder",
+      "artist": "Aegidius Sadeler (after Bartholomeus Spranger)",
+      "year": "1606",
+      "theme": "memento mori, fame vs mortality, art and nature, allegory",
+      "license": "CC0 / Cleveland Museum of Art Open Access",
+      "source": "The Cleveland Museum of Art",
+      "source_url": "https://clevelandart.org/art/1925.1218",
+      "local_path": "data/art/vanitas_still_life/base.jpg",
+      "bytes": 537298
+    },
+    {
+      "art_id": "wanderer_sea_fog",
+      "title": "Wanderer above the Sea of Fog",
+      "artist": "Caspar David Friedrich",
+      "year": "c. 1818",
+      "theme": "sublime, solitude, contemplation, human smallness before nature",
+      "license": "Public domain (PD-old)",
+      "source": null,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+      "local_path": "data/art/wanderer_sea_fog/base.jpg",
+      "bytes": 1037696
+    }
+  ]
+}

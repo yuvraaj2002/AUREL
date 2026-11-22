@@ -1,0 +1,36 @@
+{
+  "title": "Melencolia I",
+  "artist": "Albrecht Dürer",
+  "year": "1514",
+  "theme": "melancholy, knowledge, human limit, creative despair",
+  "license": "Public domain / Met Open Access",
+  "source": "The Metropolitan Museum of Art",
+  "source_url": "https://www.metmuseum.org/art/collection/search/336228",
+  "met_object_id": 336228,
+  "art_id": "melencolia",
+  "bytes": 4391204,
+  "local_path": "data/art/melencolia/base.jpg",
+  "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP820348.jpg",
+  "symbols": [
+    "winged Melancholy",
+    "magic square",
+    "polyhedron",
+    "hourglass",
+    "tools unused",
+    "comet"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Dürer's Melencolia I personifies melancholy as a winged, seated genius surrounded by instruments of geometry, craft, and measurement that lie unused. It is a meditation on the limits of human intellect and the creative mind stalled between aspiration and incompleteness. The magic square and geometric solids suggest the Renaissance faith in order; the idle tools suggest that knowledge alone does not grant peace. Melancholy here is not mere sadness but the weight of thinking too far."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "Heavy, nocturnal, intellectually restless. Suited to burnout, perfectionism, the ache of unfinished work, and the bittersweet dignity of deep thought."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Engraving dense with symbols: putto, sleeping dog, ladder, sphere, polyhedron, bat bearing the title. Angular composition; seated figure dominates the left-center."
+    }
+  ]
+}

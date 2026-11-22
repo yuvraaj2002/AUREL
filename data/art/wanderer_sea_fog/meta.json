@@ -1,0 +1,32 @@
+{
+  "art_id": "wanderer_sea_fog",
+  "title": "Wanderer above the Sea of Fog",
+  "artist": "Caspar David Friedrich",
+  "year": "c. 1818",
+  "theme": "sublime, solitude, contemplation, human smallness before nature",
+  "license": "Public domain (PD-old)",
+  "commons_file": "Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+  "local_path": "data/art/wanderer_sea_fog/base.jpg",
+  "bytes": 1037696,
+  "symbols": [
+    "lone figure",
+    "fog",
+    "mountain precipice",
+    "back turned to viewer"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Caspar David Friedrich's Wanderer above the Sea of Fog shows a solitary figure standing on a rocky peak, back turned, gazing into a sea of mist and distant mountains. It is a Romantic image of the sublime: the self confronting vast nature and the limits of knowledge. The fog suggests uncertainty; the upright stance suggests resolve. Philosophically it speaks to solitude, inwardness, and the search for meaning at the edge of what can be seen or controlled."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "The mood is contemplative and awe-struck rather than triumphant. The viewer shares the wanderer's vantage yet cannot see his face, which invites projection: ambition, doubt, freedom, or loneliness. It suits themes of personal journey, clarity after struggle, and standing alone with one's thoughts."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Vertical rocky foreground, soft horizontal bands of fog, cool greys and muted greens, silhouette of a man in a frock coat. Strong figure-ground contrast; atmosphere over detail."
+    }
+  ]
+}

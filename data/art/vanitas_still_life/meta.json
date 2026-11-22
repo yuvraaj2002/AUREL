@@ -1,0 +1,35 @@
+{
+  "title": "Allegorical Portrait of Pieter Bruegel the Elder",
+  "artist": "Aegidius Sadeler (after Bartholomeus Spranger)",
+  "year": "1606",
+  "theme": "memento mori, fame vs mortality, art and nature, allegory",
+  "license": "CC0 / Cleveland Museum of Art Open Access",
+  "source": "The Cleveland Museum of Art",
+  "source_url": "https://clevelandart.org/art/1925.1218",
+  "cleveland_id": 107226,
+  "art_id": "vanitas_still_life",
+  "bytes": 537298,
+  "local_path": "data/art/vanitas_still_life/base.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1925.1218/1925.1218_web.jpg",
+  "symbols": [
+    "portrait of Bruegel",
+    "skull with putto",
+    "Fame with trumpet",
+    "palette",
+    "Latin poem"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "This commemorative allegory of Pieter Bruegel (engraved after Spranger by Aegidius Sadeler) surrounds the painter's portrait with Fame, the arts, and a putto with a skull—an explicit memento mori. It argues that artistic reputation aspires to outlast the body, while death still frames every human claim to permanence. The Latin verses reflect on Art and Nature: nature makes the artist; art tries to immortalize what nature creates. It is philosophy of legacy: what survives of a life is work and memory, not flesh."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "Ceremonial, dense, bittersweet. Celebration of a master braided with reminder of death. Useful for themes of creative legacy, vanity of fame, and making work that outlives you."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Oval portrait framed by allegorical figures, trumpet of Fame, skull at lower center, tools of painting, extensive Latin inscription below; vertical engraving."
+    }
+  ]
+}

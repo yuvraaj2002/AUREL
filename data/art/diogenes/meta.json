@@ -1,0 +1,35 @@
+{
+  "title": "Diogenes",
+  "artist": "Ugo da Carpi (Italian, c. 1479–c. 1532)",
+  "year": "c. 1524–27",
+  "theme": "cynicism, simplicity, rejecting convention, living truth",
+  "license": "CC0 / Cleveland Museum of Art Open Access",
+  "source": "The Cleveland Museum of Art",
+  "source_url": "https://clevelandart.org/art/1923.1052",
+  "cleveland_id": 104694,
+  "art_id": "diogenes",
+  "bytes": 466668,
+  "local_path": "data/art/diogenes/base.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1923.1052/1923.1052_web.jpg",
+  "symbols": [
+    "Diogenes",
+    "staff",
+    "books",
+    "plucked rooster",
+    "bare living"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Ugo da Carpi's chiaroscuro woodcut of Diogenes shows the Cynic philosopher with staff and books, and a plucked rooster nearby—an allusion to his mockery of Plato's Academy, when he presented a plucked chicken as a 'featherless biped.' Diogenes stands for radical simplicity, honesty without social polish, and philosophy lived in the body rather than only argued in words. The image asks what we still need once status and definition-games are stripped away."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "Severe, witty, uncompromising. Dramatic light on a muscular aged body. Fits themes of anti-hypocrisy, minimal living, courage to look foolish, and truth-telling."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Chiaroscuro woodcut in greenish greys, seated bearded man, open books at his feet, rooster at right, strong sculptural folds of drapery."
+    }
+  ]
+}

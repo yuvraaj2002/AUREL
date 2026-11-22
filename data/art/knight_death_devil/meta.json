@@ -1,0 +1,35 @@
+{
+  "art_id": "knight_death_devil",
+  "title": "Knight, Death, and the Devil",
+  "artist": "Albrecht Dürer",
+  "year": "1513",
+  "theme": "stoic journey, mortality, courage, steadfastness",
+  "license": "Public domain / Met Open Access",
+  "source": "The Metropolitan Museum of Art",
+  "source_url": "https://www.metmuseum.org/art/collection/search/336223",
+  "met_object_id": 336223,
+  "bytes": 1789899,
+  "local_path": "data/art/knight_death_devil/base.jpg",
+  "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP102226.jpg",
+  "symbols": [
+    "armored knight",
+    "Death with hourglass",
+    "devilish beast",
+    "loyal dog",
+    "narrow path"
+  ],
+  "interpretations": [
+    {
+      "facet": "philosophical_reading",
+      "text": "Albrecht Dürer's Knight, Death, and the Devil presents a Christian knight riding forward while Death holds an hourglass and a swine-snouted devil trails behind. The knight does not flee; he proceeds with disciplined calm. Often read as an allegory of the steadfast soul moving through a world of temptation and mortality—courage as continuity of purpose rather than absence of fear. Time (the hourglass) is acknowledged, not denied."
+    },
+    {
+      "facet": "emotional_tone",
+      "text": "Austere, resolute, slightly grim. The landscape is harsh; companionship is sparse (the dog). Fits themes of perseverance, moral focus, walking one's path despite reminders of death."
+    },
+    {
+      "facet": "visual_notes",
+      "text": "Detailed engraving, armored rider on horseback in profile, rocky path, castle on distant ridge, dense linework, high contrast black and white."
+    }
+  ]
+}
