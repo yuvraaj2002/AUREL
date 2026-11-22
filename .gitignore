@@ -138,3 +138,6 @@ data/art/**/base.*
 data/art/**/*.jpg
 data/art/**/*.png
 data/art/**/*.webp
+
+# Regenerable embedding index
+data/embeddings/
